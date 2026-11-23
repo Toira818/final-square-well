@@ -1,3 +1,1 @@
-Python code of the wavefunction of the finite potential square well in quantum mechanics numerically. 
-Report on finite square well.
-Python code for infinite potential square well.
+In this repository I've included: the python code for the wavefunction of the finite potential square well solved numerically; a report on this code and the finite square well; and, a bonus code of the infinite potential square well solved analytically.
